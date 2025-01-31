@@ -19,13 +19,13 @@ Backend Technologies
 **IDEs & Development Environments**
 ✔ Visual Studio 2022 / 2017 / 2012 | 
 
-🌟 What I Do
+### **🌟 What I Do**
 🔹 Develop enterprise-grade .NET applications with clean and maintainable code.
-🔹 Build RESTful APIs and integrate third-party services.
-🔹 Optimize SQL queries for high-performance data handling.
-🔹 Automate workflows using C# and Selenium WebDriver.
-🔹 Implement modern UI/UX practices with Bootstrap and JavaScript.
-🔹 Contribute to open-source projects and share knowledge through technical blogs.
+<br>🔹 Build RESTful APIs and integrate third-party services.
+<br>🔹 Optimize SQL queries for high-performance data handling.
+<br>🔹 Automate workflows using C# and Selenium WebDriver.
+<br>🔹 Implement modern UI/UX practices with Bootstrap and JavaScript.
+<br>🔹 Contribute to open-source projects and share knowledge through technical blogs.
 
 > 📫 Let's Connect!
 💼 LinkedIn: Saiyad Faizan Ahamad
